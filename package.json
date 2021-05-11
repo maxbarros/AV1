@@ -1,0 +1,21 @@
+{
+  "name": "aula_02",
+  "version": "1.0.0",
+  "description": "Conteudos da aula 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "javascrypt",
+    "typescrypt"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
