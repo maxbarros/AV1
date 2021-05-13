@@ -8,7 +8,10 @@ nas duas primeiras aulas de Projetos de Programas.
 pelo git ao escrever o nome do arquivo ou pasta/ e salvar;
 
 index.ts: arquivo edetável em typescript contendo implementações
-da segunda aula, pode ser executado através do node(node ./index.ts);
+da segunda aula, pode ser executado através do node:
+
+npx tsc --init 
+npm start
 
 index_aula1.js: Aquivo editável em javascript com o conteúdo
 da primeira aula(variavel, condicionais, classes,etc).
